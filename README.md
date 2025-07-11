@@ -1,0 +1,13 @@
+# HTML
+-HyperText
+    -Textos puros, livros, revistas, jornais
+    -Links: acessar outros documentos
+    -Imagens, vídeos, áudios
+-Markup
+    -Marcação
+    -Tags: <a> Link </a>
+    -Atributos: <a href="htttps//rocketseat.com.br">
+    -globais: Id, Class,...
+-Language
+    -Linguagens
+    -Sintaxe:Maneiira de escrveer
