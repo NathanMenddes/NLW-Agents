@@ -1,16 +1,44 @@
-# HTML
--HyperText
-    -Textos puros, livros, revistas, jornais
-    -Links: acessar outros documentos
-    -Imagens, vídeos, áudios
--Markup
-    -Marcação
-    -Tags: <a> Link </a>
-    -Atributos: <a href="htttps//rocketseat.com.br">
-    -globais: Id, Class,...
--Language
-    -Linguagens
-    -Sintaxe:Maneiira de escrveer
+# 🎮 NLW Agents – Assistente de Meta para Jogos
 
-    //AIzaSyAPDIRMEdQPkiq4ie9gwc6mRiGovgfZ24E
-    const geminiURL = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`
+[![GitHub repo](https://img.shields.io/badge/GitHub-NLW--Agents-blue?logo=github)](https://github.com/NathanMenddes/NLW-Agents)
+
+> Projeto desenvolvido durante o **NLW da Rocketseat**, utilizando HTML, CSS, JS e API da Gemini (Google AI).
+
+---
+
+## 🧠 Funcionalidades
+
+- 🎯 Escolha entre Valorant, League of Legends ou CS:GO
+- 💬 Faça perguntas sobre estratégias, builds ou dicas
+- 🤖 Receba respostas inteligentes da IA
+- 🔐 Insira sua chave de API do Gemini para usar
+
+---
+
+## 📸 Preview do Projeto
+
+![Preview da aplicação](./assets/preview.png)
+<sub>👆 Você pode substituir esse arquivo `preview.png` pela sua captura de tela da aplicação.</sub>
+
+---
+
+## 🛠 Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript puro
+- Google Gemini API
+- [Showdown.js](https://github.com/showdownjs/showdown) (Markdown → HTML)
+
+---
+
+## 🚀 Como executar
+
+```bash
+# Clone o repositório
+git clone https://github.com/NathanMenddes/NLW-Agents.git
+
+# Acesse a pasta do projeto
+cd NLW-Agents
+
+# Abra o arquivo index.html no navegador
