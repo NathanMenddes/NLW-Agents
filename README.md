@@ -11,3 +11,6 @@
 -Language
     -Linguagens
     -Sintaxe:Maneiira de escrveer
+
+    //AIzaSyAPDIRMEdQPkiq4ie9gwc6mRiGovgfZ24E
+    const geminiURL = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`
