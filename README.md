@@ -19,7 +19,6 @@
 
 ![Preview da aplicação](./assets/preview/Captura%20de%20tela%20de%202025-07-21%2022-21-48.png)
 ![Preview da aplicação](./assets/preview/Captura%20de%20tela%20de%202025-07-21%2022-23-00.png)
-<sub>👆 Você pode substituir esse arquivo `preview.png` pela sua captura de tela da aplicação.</sub>
 
 ---
 
